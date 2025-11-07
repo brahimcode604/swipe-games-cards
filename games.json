@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "title": "Cyber Odyssey",
+        "description": "Plongez dans un futur dystopique où vous devez survivre dans une mégalopole cyberpunk. Explorez, combattez et prenez des décisions qui affecteront le monde autour de vous.",
+        "genre": "RPG/Action",
+        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Mythic Realms",
+        "description": "Un MMORPG épique dans un monde fantastique peuplé de créatures mythiques. Rejoignez une guilde, affrontez des donjons et devenez une légende.",
+        "genre": "MMORPG",
+        "image": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Stellar Command",
+        "description": "Prenez le contrôle d'un vaisseau spatial et explorez une galaxie infinie. Commercez, combattez et construisez votre empire interstellaire.",
+        "genre": "Stratégie/Espace",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Shadow Heist",
+        "description": "Planifiez et exécutez des cambriolages audacieux dans ce jeu d'infiltration en équipe. Chaque décision compte dans cette expérience de vol tactique.",
+        "genre": "Infiltration/Multijoueur",
+        "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Eco Simulator",
+        "description": "Construisez et gérez votre propre écosystème dans ce simulateur de vie réaliste. Observez l'impact de vos décisions sur l'environnement.",
+        "genre": "Simulation/Stratégie",
+        "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 6,
+        "title": "Racing Revolution",
+        "description": "Une expérience de course ultraréaliste avec des véhicules personnalisables et des circuits du monde entier. Affrontez vos amis en ligne!",
+        "genre": "Course/Sport",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 7,
+        "title": "Neon Samurai",
+        "description": "Incarniez un samurai futuriste dans un Tokyo néon. Mêlez combat au katana et pouvoirs cybernétiques dans cette aventure épique.",
+        "genre": "Action/Aventure",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 8,
+        "title": "Dragon's Legacy",
+        "description": "Devenez le dernier dragonnier et sauvez le royaume d'Aetheria des ténèbres qui le menacent. Élevez vos dragons et maîtrisez la magie ancienne.",
+        "genre": "RPG/Fantasy",
+        "image": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 9,
+        "title": "Quantum Racer",
+        "description": "Course à grande vitesse dans des dimensions parallèles. Franchissez des portails quantiques et défiez les lois de la physique.",
+        "genre": "Course/Arcade",
+        "image": "https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 10,
+        "title": "Zombie Outbreak",
+        "description": "Survivez à une apocalypse zombie dans une ville en ruines. Construisez des bases, trouvez des ressources et combattez les hordes de morts-vivants.",
+        "genre": "Survival/Horreur",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 11,
+        "title": "Pirate's Fortune",
+        "description": "Devenez le capitaine le plus redouté des Caraïbes. Pillez, explorez et bâtissez votre empire pirate dans ce monde ouvert.",
+        "genre": "Aventure/Action",
+        "image": "https://images.unsplash.com/photo-1544830291-d1a4f13c6df1?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 12,
+        "title": "Robot Revolution",
+        "description": "Construisez et programmez vos propres robots dans cette simulation de construction avancée. Affrontez d'autres joueurs dans des arènes high-tech.",
+        "genre": "Simulation/Stratégie",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 13,
+        "title": "Magic Academy",
+        "description": "Étudiez la magie dans la plus prestigieuse académie de sorcellerie. Apprenez des sorts, créez des potions et participez à des duels magiques.",
+        "genre": "RPG/Fantasy",
+        "image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 14,
+        "title": "Space Miner",
+        "description": "Explorez des astéroïdes et des planètes lointaines pour extraire des ressources précieuses. Agrandissez votre vaisseau et devenez riche.",
+        "genre": "Simulation/Espace",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 15,
+        "title": "Ninja Shadow",
+        "description": "Maîtrisez les arts ninja dans le Japon féodal. Infiltrez des châteaux, accomplissez des missions secrètes et devenez une légende.",
+        "genre": "Action/Infiltration",
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 16,
+        "title": "Football Champions",
+        "description": "Le jeu de football ultime avec des graphismes photoréalistes et une physique avancée. Créez votre équipe et remportez la coupe du monde.",
+        "genre": "Sport",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 17,
+        "title": "Viking Saga",
+        "description": "Conquérez de nouvelles terres et bâtissez votre royaume viking. Naviguez sur des drakkars, combattez et pillez dans cette épopée nordique.",
+        "genre": "Action/Aventure",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 18,
+        "title": "Cyber Detective",
+        "description": "Résolvez des affaires criminelles dans un futur proche. Utilisez la technologie de pointe pour analyser des preuves et démasquer les coupables.",
+        "genre": "Aventure/Enquête",
+        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 19,
+        "title": "Dinosaur World",
+        "description": "Construisez et gérez votre propre parc à dinosaures. Clonez des espèces préhistoriques et survivez aux échappées de vos créatures.",
+        "genre": "Simulation/Gestion",
+        "image": "https://images.unsplash.com/photo-1518358246973-95637f1df901?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 20,
+        "title": "Magic Chess",
+        "description": "Un jeu d'échecs où chaque pièce possède des pouvoirs magiques uniques. Stratégie pure et magie se mêlent dans ce jeu innovant.",
+        "genre": "Stratégie/Fantasy",
+        "image": "https://images.unsplash.com/photo-1543092587-d8b8feafc8b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 21,
+        "title": "Sky Pirates",
+        "description": "Naviguez dans les cieux à bord de votre vaisseau volant. Affrontez d'autres pirates aériens et découvrez des îles flottantes mystérieuses.",
+        "genre": "Aventure/Action",
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 22,
+        "title": "Robot Arena",
+        "description": "Construisez et combattez avec des robots personnalisables dans des arènes destructibles. Des centaines de pièces et d'armes disponibles.",
+        "genre": "Action/Combat",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 23,
+        "title": "Wild West Online",
+        "description": "Vivez la vie d'un cowboy dans le Far West. Chassez au trésor, participez à des duels et explorez des villes frontalières dangereuses.",
+        "genre": "MMORPG/Western",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 24,
+        "title": "Deep Sea Explorer",
+        "description": "Plongez dans les abysses océaniques et découvrez des créatures marines mystérieuses. Construisez des bases sous-marines et survivez aux dangers des profondeurs.",
+        "genre": "Aventure/Exploration",
+        "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 25,
+        "title": "Time Traveler",
+        "description": "Voyagez à travers différentes époques historiques et modifiez le cours du temps. Rencontrez des personnages célèbres et résolvez des paradoxes temporels.",
+        "genre": "Aventure/Puzzle",
+        "image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+        "id": 26,
+        "title": "Basketball Stars",
+        "description": "Devenez une légende du basket avec des contrôles précis et des graphismes réalistes. Créez votre joueur et dominez les courts.",
+        "genre": "Sport",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    }
+]

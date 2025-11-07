@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GameMatch - Découvrez vos jeux préférés</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>GameMatch</h1>
+        <p class="subtitle">Découvrez vos prochains jeux préférés en swipant à droite ceux qui vous intéressent</p>
+    </header>
+
+    <div class="container">
+        <div class="fvo____cont"> 
+
+ <button class="action-btn dislike-btn" id="dislikeBtn">✕</button>
+        <div class="card-stack" id="cardStack">
+            <!-- Les cartes seront générées dynamiquement par JavaScript -->
+        </div>
+
+<button class="action-btn like-btn" id="likeBtn">♥</button>
+        
+</div>
+        <button class="summary-btn" id="summaryBtn">Voir mes jeux aimés</button>
+
+        <div class="instructions">
+            <p>Cliquez sur les boutons ou faites glisser les cartes avec votre souris</p>
+        </div>
+    </div>
+
+    <div class="summary-container" id="summaryContainer">
+        <h2 class="summary-title">Mes jeux préférés</h2>
+        <div class="liked-games" id="likedGames">
+            <!-- Les jeux aimés seront affichés ici -->
+        </div>
+        <button class="back-btn" id="backBtn">Retour au swiping</button>
+    </div>
+
+    <script src="scripte.js"></script>
+</body>
+</html>
